@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="AudioFile" id="{6cf1e35f-b673-4177-9bf4-76b445acd7d8}">
+		<property name="assetPath">
+			<value>ost_bravefest_launch.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>37.40260416666667</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{6be2185d-9975-406e-b86c-4b203917483d}</destination>
+		</relationship>
+	</object>
+</objects>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="ParameterPreset" id="{a117e553-467e-4114-a4e5-d9c2cb2da17b}">
+		<property name="name">
+			<value>mus_end</value>
+		</property>
+		<relationship name="folder">
+			<destination>{7a0b3dc2-f616-40d6-8b39-51d90cfce17d}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{aff8bf53-4fd9-450e-8309-fe586205c06b}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{aff8bf53-4fd9-450e-8309-fe586205c06b}">
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>
