@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="AudioFile" id="{0dd09278-4816-4725-a534-43431a133f62}">
+		<property name="assetPath">
+			<value>sfx_bravefest_interface_whooshfinal.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.57391666666666663</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{6be2185d-9975-406e-b86c-4b203917483d}</destination>
+		</relationship>
+	</object>
+</objects>
