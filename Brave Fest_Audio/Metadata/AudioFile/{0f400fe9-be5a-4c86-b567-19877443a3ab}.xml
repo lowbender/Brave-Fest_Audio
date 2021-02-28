@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="AudioFile" id="{0f400fe9-be5a-4c86-b567-19877443a3ab}">
+		<property name="assetPath">
+			<value>sfx_bravefest_start_counting_01.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>1.25</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{6be2185d-9975-406e-b86c-4b203917483d}</destination>
+		</relationship>
+	</object>
+</objects>
