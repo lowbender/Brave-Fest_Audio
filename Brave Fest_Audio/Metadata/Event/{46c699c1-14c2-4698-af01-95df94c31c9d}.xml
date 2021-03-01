@@ -5,7 +5,7 @@
 			<value>sfx_bravefest_player_kick</value>
 		</property>
 		<property name="outputFormat">
-			<value>2</value>
+			<value>0</value>
 		</property>
 		<relationship name="folder">
 			<destination>{4d0f50c0-4728-40b7-a91b-539671ffd001}</destination>
@@ -130,7 +130,6 @@
 	<object class="MixerBusEffectChain" id="{3f8be98b-098d-403a-9fc6-24485ea0fe03}">
 		<relationship name="effects">
 			<destination>{9f4f00d7-95a4-47f1-b7f5-3ee85790ab7a}</destination>
-			<destination>{bad684f8-84da-455c-983d-0b04693a0d0e}</destination>
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{43835021-7113-468e-a80e-63fbfc5de7fe}" />
@@ -165,17 +164,6 @@
 	</object>
 	<object class="MixerBusPanner" id="{f254c8bc-9c1f-4dd0-86bc-5db220664576}" />
 	<object class="MixerBusFader" id="{9f4f00d7-95a4-47f1-b7f5-3ee85790ab7a}" />
-	<object class="SpatialiserEffect" id="{bad684f8-84da-455c-983d-0b04693a0d0e}">
-		<property name="extentMode">
-			<value>1</value>
-		</property>
-		<property name="soundSize">
-			<value>19.5</value>
-		</property>
-		<property name="minimumExtent">
-			<value>230</value>
-		</property>
-	</object>
 	<object class="AutomationPoint" id="{e8601ba0-a968-4c8e-9668-503f34a7d068}">
 		<property name="position">
 			<value>0.14000000000000001</value>

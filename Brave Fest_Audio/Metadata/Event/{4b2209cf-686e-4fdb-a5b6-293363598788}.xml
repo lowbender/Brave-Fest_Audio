@@ -5,7 +5,7 @@
 			<value>sfx_bravefest_enemy_throwhit</value>
 		</property>
 		<property name="outputFormat">
-			<value>2</value>
+			<value>1</value>
 		</property>
 		<relationship name="folder">
 			<destination>{4d0f50c0-4728-40b7-a91b-539671ffd001}</destination>
@@ -160,7 +160,6 @@
 	<object class="MixerBusEffectChain" id="{6cd23433-b4b9-41fb-962a-2791217758c8}">
 		<relationship name="effects">
 			<destination>{a5cc2ccb-c771-465b-91b2-a391d77195d9}</destination>
-			<destination>{5d3840d2-d36a-4057-9429-f0adc17bf98f}</destination>
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{061d7274-7d3e-47c5-acf9-d2580f78231b}" />
@@ -186,7 +185,6 @@
 	</object>
 	<object class="MixerBusPanner" id="{913e5cf4-c4ab-41ca-8029-90fe41cb592e}" />
 	<object class="MixerBusFader" id="{a5cc2ccb-c771-465b-91b2-a391d77195d9}" />
-	<object class="SpatialiserEffect" id="{5d3840d2-d36a-4057-9429-f0adc17bf98f}" />
 	<object class="MixerBusFader" id="{e4028465-59fc-422e-8f3c-c43a2c3387c1}" />
 	<object class="AutomationPoint" id="{0d0a1069-9b32-41d1-a4d0-5eec7b9afc1a}">
 		<property name="position">

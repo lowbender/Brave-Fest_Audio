@@ -5,7 +5,7 @@
 			<value>sfx_bravefest_item_bombhit</value>
 		</property>
 		<property name="outputFormat">
-			<value>2</value>
+			<value>0</value>
 		</property>
 		<relationship name="folder">
 			<destination>{4d0f50c0-4728-40b7-a91b-539671ffd001}</destination>
@@ -125,7 +125,6 @@
 	<object class="MixerBusEffectChain" id="{dbaea49d-b859-43de-b653-045d4ca3a6be}">
 		<relationship name="effects">
 			<destination>{e74a9624-25f6-4ed5-a868-ad67e1069085}</destination>
-			<destination>{c91e3763-fb3b-448e-8805-de00886ecfbc}</destination>
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{6c4b6cdb-3641-439a-aa47-4ea09dbaea46}" />
@@ -137,6 +136,5 @@
 	</object>
 	<object class="MixerBusPanner" id="{0c313782-f245-4669-8473-57fdd1f97b1c}" />
 	<object class="MixerBusFader" id="{e74a9624-25f6-4ed5-a868-ad67e1069085}" />
-	<object class="SpatialiserEffect" id="{c91e3763-fb3b-448e-8805-de00886ecfbc}" />
 	<object class="MixerBusFader" id="{3f71060c-815e-43be-98d3-0b1cc72c811d}" />
 </objects>
